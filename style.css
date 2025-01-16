@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+
+body{
+    background-color: rgb(162, 176, 232);
+}
+
+.container{
+    width: 200px;
+    padding: 25px 35px;
+    background: white;
+    border-radius: 20px;
+    margin-left: 350px;
+    margin-top: 220px;
+}
+
+.container button{
+    background-color: rgb(163, 163, 248);
+    color: rgb(39, 38, 38);
+    font-weight: medium;
+    padding: 2px 3px;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: none;
+    cursor: pointer;
+}
